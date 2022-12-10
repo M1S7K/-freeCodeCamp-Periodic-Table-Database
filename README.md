@@ -46,8 +46,8 @@
   </ol>
 <h2>Result</h2>
 <div>
-  <p>A user named Fabio has been added to the database</p>
-  <img src="https://raw.githubusercontent.com/M1S7K/freeCodeCamp-Salon-Appointment-Scheduler/main/screenshots/Terminal.png" alt="terminal_screenshot" width="380">
+  <p>The element with atomic number 10 was output to the terminal</p>
+  <img src="https://raw.githubusercontent.com/M1S7K/freeCodeCamp-Periodic-Table-Database/main/result-screenshots/element%20example.png" width="380">
 </div>
 <div>
   <p>All the necessary steps were completed</p>
