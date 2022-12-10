@@ -23,5 +23,3 @@ then
 else
   echo "I could not find that element in the database."
 fi
-
-#echo  "$($PSQL "SELECT atomic_number, name, symbol, type, melting_point_celsius, boiling_point_celsius FROM elements INNER JOIN properties USING(atomic_number) INNER JOIN types USING(type_id);")"
