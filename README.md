@@ -46,12 +46,17 @@
   </ol>
 <h2>Result</h2>
 <div>
-  <p>The element with atomic number 10 was output to the terminal</p>
+  <p>Element with atomic number 10 was output to the terminal</p>
   <img src="https://raw.githubusercontent.com/M1S7K/freeCodeCamp-Periodic-Table-Database/main/result-screenshots/element%20example.png" width="380">
 </div>
 <div>
+<div>
+  <p>Required table of elements to complete the project</p>
+  <img src="https://raw.githubusercontent.com/M1S7K/freeCodeCamp-Periodic-Table-Database/main/result-screenshots/table.png" width="380">
+</div>
+<div>
   <p>All the necessary steps were completed</p>
-  <img src="https://raw.githubusercontent.com/M1S7K/freeCodeCamp-Salon-Appointment-Scheduler/main/screenshots/Task.png" width="380">
+  <img src="https://raw.githubusercontent.com/M1S7K/freeCodeCamp-Periodic-Table-Database/main/result-screenshots/completed.png" width="380">
 </div>
 <h2>Possible options for the future project improvement</h2>
 <ul>
